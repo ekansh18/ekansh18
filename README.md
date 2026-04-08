@@ -55,11 +55,7 @@
 
 ---
 
-## 📊 My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekansh18&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekansh18&layout=compact&theme=radical)
 
----
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekansh-18)
