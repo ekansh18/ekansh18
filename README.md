@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 **Master of Science in Data Science** candidate at **RWTH Aachen University**.
-- 🔬 **Research Assistant** at the Chair for AI Methodology, focusing on **AutoML** and automated model development.
+- 🔬 **Researched** at the Chair for AI Methodology, focusing on **AutoML** and automated model development.
 - 🛠️ **Backend Specialist** with 2+ years of experience scaling data pipelines and building end-to-end ML systems.
 - 📍 Based in **Aachen, Germany**.
 
