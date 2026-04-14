@@ -13,11 +13,11 @@
 <td align="center" width="700">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║   M.Sc. Data Science @ RWTH Aachen  ·  Aachen, Germany      ║
+╔═══════════════════════════════════════════════════════════════════╗
+║   M.Sc. Data Science @ RWTH Aachen  ·  Aachen, Germany            ║
 ║   AutoML & AI Researcher  ·  2 yrs Backend @ UnitedHealth Group   ║
-║   Building open-source Process Mining tools with Celonis R&D ║
-╚══════════════════════════════════════════════════════════════╝
+║   Building open-source Process Mining tools with Celonis R&D      ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </td>
