@@ -162,20 +162,13 @@ Comprehensive research survey of state-of-the-art AutoML frameworks. Covering au
 ![GitHub Streak](https://streak-stats.demolab.com?user=ekansh18&theme=tokyonight&hide_border=true&background=0d1117&ring=4fc3f7&fire=ff6e42&currStreakLabel=4fc3f7)
 
 </div> -->
-<div align="center">
-
-![Ekansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekansh18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=ff6e42&text_color=c9d1d9&count_private=true&cache_seconds=1800)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekansh18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4fc3f7&text_color=c9d1d9&langs_count=6&cache_seconds=1800)
-
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ekansh18&theme=tokyonight&hide_border=true&background=0d1117&ring=4fc3f7&fire=ff6e42&currStreakLabel=4fc3f7)
+[![Ekansh's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekansh18&theme=tokyonight)](https://github.com/ekansh18)
 
 </div>
-
 ---
 
 ## 🌐 Let's Connect
