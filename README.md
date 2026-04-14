@@ -15,7 +15,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║   M.Sc. Data Science @ RWTH Aachen  ·  Aachen, Germany      ║
-║   AutoML Researcher  ·  2 yrs Backend @ UnitedHealth Group   ║
+║   AutoML & AI Researcher  ·  2 yrs Backend @ UnitedHealth Group   ║
 ║   Building open-source Process Mining tools with Celonis R&D ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -62,18 +62,18 @@ ekansh = {
 ![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=013243)
 
-**Process Mining**
-
-![Celonis](https://img.shields.io/badge/Celonis_EMS-1a1a2e?style=for-the-badge&logoColor=white)
-![PM4Py](https://img.shields.io/badge/PM4Py-1a1a2e?style=for-the-badge&logoColor=white)
-![PyCelonis](https://img.shields.io/badge/PyCelonis_+_PQL-1a1a2e?style=for-the-badge&logoColor=white)
-
 **DevOps & Web**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ed)
 ![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
 ![D3.js](https://img.shields.io/badge/D3.js-1a1a2e?style=for-the-badge&logo=d3.js&logoColor=f9a03c)
+
+**Process Mining**
+
+![Celonis](https://img.shields.io/badge/Celonis_EMS-1a1a2e?style=for-the-badge&logoColor=white)
+![PM4Py](https://img.shields.io/badge/PM4Py-1a1a2e?style=for-the-badge&logoColor=white)
+![PyCelonis](https://img.shields.io/badge/PyCelonis_+_PQL-1a1a2e?style=for-the-badge&logoColor=white)
 
 </div>
 
