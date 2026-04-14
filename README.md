@@ -88,9 +88,9 @@ ekansh = {
 ### 🏛️ RWTH Aachen University
 **HiWi Research Assistant** · *Sep 2025 – Present*
 
-Building a full-stack, open-source **Object Centric Process Mining** tool in collaboration with Celonis R&D — production-grade code in React + Rust.
+Building a full-stack, open-source **Object Centric Process Mining** tool in collaboration with Celonis R&D - production-grade code in React + Rust.
 
-Also conducting in-depth research on **AutoML** systems under Prof. Holger Hoos, surveying auto-sklearn, algorithm selection, and Neural Architecture Search.
+Also conducting in depth research on **AutoML** systems under Prof. Holger Hoos, surveying auto sklearn, algorithm selection, and Neural Architecture Search.
 
 </td>
     <td width="50%" valign="top">
@@ -128,7 +128,7 @@ Modular conformance checking system for Celonis EMS event logs. Built dynamic PQ
 #### 🤖 AutoML Systems Research
 `auto-sklearn` `NAS` `Algorithm Selection` `Meta-Learning`
 
-Comprehensive research survey of state-of-the-art AutoML frameworks. Covering automated algorithm configuration, hyperparameter optimization, and Neural Architecture Search — grounded in foundational literature.
+Comprehensive research survey of state-of-the-art AutoML frameworks. Covering automated algorithm configuration, hyperparameter optimization, and Neural Architecture Search, grounded in foundational literature.
 
 **Ongoing** · RWTH Chair for AI Methodology (Prof. Holger Hoos)
 
