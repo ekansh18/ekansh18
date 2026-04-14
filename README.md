@@ -147,8 +147,6 @@ Comprehensive research survey of state-of-the-art AutoML frameworks. Covering au
 
 ---
 
-## 📊 GitHub Stats
-
 <!-- <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ekansh18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=ff6e42&text_color=c9d1d9&count_private=true"/>
@@ -169,7 +167,7 @@ Comprehensive research survey of state-of-the-art AutoML frameworks. Covering au
 [![Ekansh's GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekansh18&theme=tokyonight)](https://github.com/ekansh18)
 
 </div>
----
+
 
 ## 🌐 Let's Connect
 
